@@ -8,6 +8,9 @@ Este projeto é um currículo interativo desenvolvido com HTML, CSS e JavaScript
 - Interatividade com JavaScript
 
 ## Como executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/curriculo-web.git
+1. Acessando o link
+   https://leoluigy.github.io/Project-Resume/
+
+2. Clone o repositório:
+   ``bash
+   git clone [https://github.com/leoLUIGY/Project-Resume.git]
